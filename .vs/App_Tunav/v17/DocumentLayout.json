@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\controllers\\comptecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\controllers\\comptecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\migrations\\20240909100635_t12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\migrations\\20240909100635_t12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\authmessagesenderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\authmessagesenderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|e:\\semestre 1 sim\\stage.net\\stage-tunav\\app_tunav\\app_tunav\\migrations\\20240909094204_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE793F9C-2C77-4059-A532-E2910B36E14C}|App_Tunav\\App_Tunav.csproj|solutionrelative:app_tunav\\migrations\\20240909094204_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Data\\Context.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Data\\Context.cs",
+              "RelativeToolTip": "App_Tunav\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:21:42.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Program.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Program.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Program.cs",
+              "RelativeToolTip": "App_Tunav\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:11:01.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\appsettings.json",
+              "RelativeDocumentMoniker": "App_Tunav\\appsettings.json",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\appsettings.json",
+              "RelativeToolTip": "App_Tunav\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T22:54:55.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Models\\Client.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Models\\Client.cs",
+              "RelativeToolTip": "App_Tunav\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:40:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeToolTip": "App_Tunav\\Migrations\\ContextModelSnapshot.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:40:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthentificationController.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Controllers\\AuthentificationController.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Controllers\\AuthentificationController.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Controllers\\AuthentificationController.cs",
+              "RelativeToolTip": "App_Tunav\\Controllers\\AuthentificationController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:18:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "App_Tunav\\appsettings.Development.json",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\appsettings.Development.json",
+              "RelativeToolTip": "App_Tunav\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T23:22:24.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240909094204_test.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\20240909094204_test.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Migrations\\20240909094204_test.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\20240909094204_test.cs",
+              "RelativeToolTip": "App_Tunav\\Migrations\\20240909094204_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:42:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240909100635_t12.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\20240909100635_t12.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Migrations\\20240909100635_t12.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Migrations\\20240909100635_t12.cs",
+              "RelativeToolTip": "App_Tunav\\Migrations\\20240909100635_t12.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:06:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompteController.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Controllers\\CompteController.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\Controllers\\CompteController.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\Controllers\\CompteController.cs",
+              "RelativeToolTip": "App_Tunav\\Controllers\\CompteController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:34:06.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthMessageSenderOptions.cs",
+              "DocumentMoniker": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\AuthMessageSenderOptions.cs",
+              "RelativeDocumentMoniker": "App_Tunav\\AuthMessageSenderOptions.cs",
+              "ToolTip": "E:\\Semestre 1 SIM\\stage.net\\Stage-Tunav\\App_Tunav\\App_Tunav\\AuthMessageSenderOptions.cs",
+              "RelativeToolTip": "App_Tunav\\AuthMessageSenderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:34:12.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
