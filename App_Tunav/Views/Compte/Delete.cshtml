@@ -1,0 +1,76 @@
+﻿@model Compte
+
+@{
+    ViewData["Title"] = "Delete Account";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="text-danger">Delete Account</h1>
+            <h3>Are you sure you want to delete this account?</h3>
+        </div>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-danger text-white">
+            <h4 class="card-title">Account Details</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Login</dt>
+                <dd class="col-sm-9">@Model.login</dd>
+
+                <dt class="col-sm-3">Password</dt>
+                <dd class="col-sm-9">@Model.password</dd>
+
+                <dt class="col-sm-3">Client</dt>
+                <dd class="col-sm-9">@Model.Client?.Name</dd>
+                <dt class="col-sm-3">Lien</dt>
+                <dd class="col-sm-9">@Model.Lien</dd>
+            </dl>
+
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="CompteId" />
+
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-danger btn-lg">
+                        <i class="bi bi-trash-fill"></i> Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary btn-lg">
+                        <i class="bi bi-arrow-left-circle"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 8px;
+    }
+
+    .card-header {
+        border-bottom: 2px solid #dc3545; /* Red border for consistency with the delete button */
+    }
+
+    .btn-lg {
+        font-size: 1.125rem; /* Slightly larger font size for better readability */
+        padding: 0.75rem 1.5rem; /* Adjust padding for better button size */
+    }
+
+    .btn-outline-secondary {
+        border-color: #6c757d; /* Match the border color with the secondary button */
+        color: #6c757d; /* Match the text color with the secondary button */
+    }
+
+        .btn-outline-secondary:hover {
+            background-color: #6c757d;
+            color: white;
+        }
+
+    .card-body {
+        background-color: #f8f9fa; /* Light background for better readability */
+    }
+</style>

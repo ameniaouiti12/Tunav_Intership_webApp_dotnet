@@ -1,0 +1,46 @@
+﻿@model IEnumerable<App_Tunav.Models.ClientDashboard>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="container mt-4">
+    <h2 class="text-center text-primary mb-4">Client Dashboard</h2>
+
+    <div class="row">
+        @foreach (var client in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@client.ClientName (@client.Email)</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Links and Accounts</h6>
+                        <ul class="list-group list-group-flush">
+                            @foreach (var compte in client.Comptes)
+                            {
+                                <li class="list-group-item">
+                                    <strong>Lien:</strong> @compte.Lien <br />
+                                    <strong>Login:</strong> @compte.Login
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .card-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .text-primary {
+        color: #007bff !important;
+    }
+
+    .list-group-item {
+        font-size: 1rem;
+    }
+</style>

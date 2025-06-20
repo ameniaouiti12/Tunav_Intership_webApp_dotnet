@@ -1,0 +1,101 @@
+﻿@model Compte
+
+@{
+    ViewData["Title"] = "Edit Account";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="text-primary">Edit Account</h1>
+        </div>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="card-title">Account Details</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit">
+                <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                <input type="hidden" asp-for="CompteId" />
+
+                <div class="mb-3">
+                    <label asp-for="login" class="form-label"></label>
+                    <input asp-for="login" class="form-control" placeholder="Enter login" />
+                    <span asp-validation-for="login" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="password" class="form-label"></label>
+                    <input asp-for="password" type="password" class="form-control" placeholder="Enter password" />
+                    <span asp-validation-for="password" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Lien" class="form-label"></label>
+                    <input asp-for="Lien" type="lien" class="form-control" placeholder="Enter Lien" />
+                    <span asp-validation-for="Lien" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ClientFK" class="form-label"></label>
+                    <select asp-for="ClientFK" class="form-select" asp-items="ViewBag.Clients">
+                        <option value="">Select Client</option>
+                    </select>
+                    <span asp-validation-for="ClientFK" class="text-danger"></span>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="bi bi-save"></i> Update
+                        </button>
+                    </div>
+                    <div class="col-12 col-md-6 mt-2 mt-md-0">
+                        <a asp-controller="Compte" asp-action="Index" class="btn btn-outline-secondary w-100">
+                            <i class="bi bi-arrow-left-circle"></i> Back To List
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .card {
+        border-radius: 8px;
+    }
+
+    .card-header {
+        border-bottom: 2px solid #007bff; 
+    }
+
+    .form-label {
+        font-weight: 500;
+    }
+
+    .btn-primary, .btn-outline-secondary {
+        font-size: 1rem; 
+    }
+
+    
+
+    .btn-outline-secondary {
+        border-color: #6c757d;
+        color: #6c757d;
+    }
+
+        .btn-outline-secondary:hover {
+            background-color: #6c757d;
+            color: white;
+        }
+</style>

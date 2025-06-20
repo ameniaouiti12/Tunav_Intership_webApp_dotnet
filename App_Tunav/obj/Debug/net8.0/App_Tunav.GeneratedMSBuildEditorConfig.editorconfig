@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App_Tunav
+build_property.RootNamespace = App_Tunav
+build_property.ProjectDir = E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Authentification/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGlmaWNhdGlvblxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Authentification/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGlmaWNhdGlvblxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Authentification/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGlmaWNhdGlvblxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXRQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Compte/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Compte/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Compte/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Compte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Reclamation/CreateReclamation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjbGFtYXRpb25cQ3JlYXRlUmVjbGFtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Reclamation/Reclamations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjbGFtYXRpb25cUmVjbGFtYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Semestre 1 SIM/stage.net/Stage-Tunav/App_Tunav/App_Tunav/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-22ipan4kp3

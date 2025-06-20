@@ -1,0 +1,54 @@
+﻿@model IEnumerable<App_Tunav.Models.Reclamation>
+
+@{
+    ViewData["Title"] = "Reclamation History";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary mb-4">Reclamation History</h2>
+
+    <div class="row mb-3">
+        <div class="col text-end">
+            <a asp-action="CreateReclamation" class="btn btn-primary create-btn" style="width: 200px;">
+                <i class="bi bi-plus-circle"></i> Add Reclamation
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        @foreach (var reclamation in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@reclamation.Date.ToString("dd/MM/yyyy HH:mm")</h5>
+                        <p class="card-text"><strong>Lien:</strong> @reclamation.lien</p>
+                        <p class="card-text">@reclamation.Description</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .create-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .create-btn i {
+            margin-right: 8px;
+        }
+
+    .card-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #007bff;
+    }
+
+    .card-text strong {
+        color: #495057;
+    }
+</style>

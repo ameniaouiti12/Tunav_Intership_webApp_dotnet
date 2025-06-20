@@ -1,0 +1,80 @@
+﻿@model List<App_Tunav.Models.Compte>
+@{
+    ViewBag.Title = "Comptes";
+}
+
+<div class="container mt-4">
+    <div class="row mb-3">
+        <div class="col-6">
+            <h2 class="text-primary">Comptes</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-action="Create" class="btn btn-primary create-btn" style="width:300px">
+                <i class="bi bi-plus-circle"></i> Create New
+            </a>
+        </div>
+    </div>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Login</th>
+                <th>Password</th>
+                <th>Client</th>
+                <th>Lien</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.login</td>
+                    <td>@item.password</td>
+                    <td>@item.Client.Name</td>
+                    <td><a href="https://localhost:7283/@item.Lien" target="_blank">@item.Lien</a></td>
+                    <td>
+                        <div class="d-flex">
+                            <a asp-action="Edit" asp-route-id="@item.CompteId" class="btn btn-primary btn-sm me-2">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.CompteId" class="btn btn-danger btn-sm">
+                                <i class="bi bi-trash-fill"></i> Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .create-btn {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        transition: background-color 0.3s ease-in-out;
+    }
+
+        .create-btn:hover {
+            background-color: #0056b3;
+        }
+
+    .table th, .table td {
+        vertical-align: middle;
+    }
+
+    .table .btn {
+        display: inline-flex;
+        align-items: center;
+    }
+
+        .table .btn i {
+            margin-right: 4px;
+        }
+
+    .table .btn-sm {
+        font-size: 0.875rem;
+    }
+</style>

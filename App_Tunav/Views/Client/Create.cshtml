@@ -1,0 +1,57 @@
+﻿@model Client
+
+@{
+    ViewData["Title"] = "Create New Client";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow-sm border-primary">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="card-title">Create New Client</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        <!-- Affiche les messages de validation résumés -->
+                        <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                        <!-- Champ Name -->
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Client Name</label>
+                            <input asp-for="Name" class="form-control" placeholder="Enter client name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <!-- Champ Email -->
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Client Email</label>
+                            <input asp-for="Email" class="form-control" placeholder="Enter client email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <!-- Boutons d'action -->
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <button type="submit" class="btn btn-primary w-100">
+                                    <i class="bi bi-plus-circle"></i> Create
+                                </button>
+                            </div>
+                            <div class="col-12 col-md-6 mt-2 mt-md-0">
+                                <a asp-controller="Client" asp-action="Index" class="btn btn-outline-secondary w-100">
+                                    <i class="bi bi-arrow-left-circle"></i> Back To List
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

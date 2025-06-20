@@ -1,0 +1,765 @@
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.staticwebassets.runtime.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.exe
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.deps.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.runtimeconfig.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.pdb
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfo.cs
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.App_Tunav.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.build.App_Tunav.props
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App_Tunav.props
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App_Tunav.props
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\bundle\App_Tunav.styles.css
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\projectbundle\App_Tunav.bundle.scp.css
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.Up2Date
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\refint\App_Tunav.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.pdb
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.genruntimeconfig.cache
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\ref\App_Tunav.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.sourcelink.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.Development.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.staticwebassets.runtime.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.exe
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.deps.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.runtimeconfig.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.pdb
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Core.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Identity.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Castle.Core.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Humanizer.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Common.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.CodeDom.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Memory.Data.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.AssemblyReference.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.GeneratedMSBuildEditorConfig.editorconfig
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfoInputs.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfo.cs
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.CoreCompileInputs.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.MvcApplicationPartsAssemblyInfo.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cs
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.sourcelink.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.build.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.development.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.App_Tunav.Microsoft.AspNetCore.StaticWebAssets.props
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.build.App_Tunav.props
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App_Tunav.props
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App_Tunav.props
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.pack.json
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\bundle\App_Tunav.styles.css
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\projectbundle\App_Tunav.bundle.scp.css
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.Up2Date
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\refint\App_Tunav.dll
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.pdb
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.genruntimeconfig.cache
+E:\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\ref\App_Tunav.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.Development.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\appsettings.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.staticwebassets.runtime.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.exe
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.deps.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.runtimeconfig.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\App_Tunav.pdb
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Core.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Azure.Identity.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Castle.Core.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Humanizer.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Common.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.CodeDom.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.AssemblyReference.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfoInputs.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.AssemblyInfo.cs
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.CoreCompileInputs.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.MvcApplicationPartsAssemblyInfo.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.RazorAssemblyInfo.cs
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.sourcelink.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.build.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.development.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.App_Tunav.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.build.App_Tunav.props
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App_Tunav.props
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App_Tunav.props
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\bundle\App_Tunav.styles.css
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\scopedcss\projectbundle\App_Tunav.bundle.scp.css
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.csproj.Up2Date
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\refint\App_Tunav.dll
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.pdb
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\App_Tunav.genruntimeconfig.cache
+E:\Semestre 1 SIM\stage.net\Stage-Tunav\App_Tunav\App_Tunav\obj\Debug\net8.0\ref\App_Tunav.dll
